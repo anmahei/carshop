@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+body {
+  background-color: rgb(165, 11, 11);
+  font-family: Roboto;
+}
+.App-header {
+  background-color: #696969;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: white;
+}
+.appbar {
+  background-color: lightsteelblue;
+  position: fixed;
+  top: 0;
+  left: auto;
+  right: 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto;
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0px 0px 5px silver;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+table {
+  margin: auto;
+}
+h1 {
+  background-color: rgb(85, 218, 145);
+  height: 10vh;
+}
+body{
+  background-color: rgb(255, 255, 255);
+}
+button{
+  background-color: rgb(40, 150, 73);
+  text-decoration-color: #3765c2;
+}
